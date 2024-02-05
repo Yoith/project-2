@@ -1,0 +1,101 @@
+rank,rating,name,year,minplayers,maxplayers,bestplayers,minplaytime,maxplaytime,minage,type
+1,8.5,Gloomhaven ,2017,1,4,3,60,120,14,Strategy
+2,8.4,Pandemic Legacy: Season 1,2015,2,4,4+,60,60,13,Strategy
+3,8.4,Brass: Birmingham,2018,2,4,3,60,120,14,Strategy
+4,8.3,Terraforming Mars,2016,1,5,3,120,120,12,Strategy
+5,8.3,Twilight Imperium: Fourth Edition,2017,3,6,4+,240,480,14,Strategy
+6,8.3,Gloomhaven: Jaws of the Lion,2020,1,4,,30,120,14,Strategy
+7,8.2,Gaia Project,2017,1,4,3,60,150,12,Strategy
+8,8.2,Star Wars: Rebellion,2016,2,4,2,180,240,14,Thematic
+9,8.2,Through the Ages: A New Story of Civilization,2015,2,4,3,120,120,14,Strategy
+10,8.1,War of the Ring: Second Edition,2012,2,4,2,150,180,13,Thematic
+11,8.1,Spirit Island,2017,1,4,2,90,120,13,Strategy
+12,8.1,Great Western Trail,2016,2,4,3,75,150,12,Strategy
+13,8.1,Twilight Struggle,2005,2,2,2,120,180,13,Strategy
+14,8.1,Scythe ,2016,1,5,4+,90,115,14,Strategy
+15,8.0,The Castles of Burgundy,2011,2,4,2,30,90,12,Strategy
+16,8.0,7 Wonders Duel,2015,2,2,2,30,30,10,Strategy
+17,8.0,Nemesis,2018,1,5,4+,90,180,12,Thematic
+18,8.0,Terra Mystica,2012,2,5,4+,60,150,12,Strategy
+19,8.0,Concordia,2013,2,5,4+,100,100,13,Strategy
+20,8.0,Brass: Lancashire,2007,2,4,4+,60,120,14,Strategy
+21,8.0,Dune: Imperium,2020,1,4,3,60,120,14,Strategy
+22,7.9,A Feast for Odin,2016,1,4,3,30,120,12,Strategy
+23,7.9,Wingspan,2019,1,5,3,40,70,10,Strategy
+24,7.9,Arkham Horror: The Card Game,2016,1,2,2,60,120,14,Thematic
+25,7.9,Viticulture Essential Edition ,2015,1,6,3,45,90,13,Strategy
+26,7.9,Root ,2018,2,4,4+,60,90,10,Strategy
+27,7.9,Orl?ans,2014,2,4,4+,90,90,12,Strategy
+28,7.9,Mage Knight Board Game,2011,1,4,1,60,240,14,Strategy
+29,7.9,Everdell,2018,1,4,3,40,80,13,Strategy
+30,7.8,Clank!: Legacy  Acquisitions Incorporated,2019,2,4,4+,90,120,13,Thematic
+31,7.8,Puerto Rico,2002,3,5,4+,90,150,12,Strategy
+32,7.8,Food Chain Magnate,2015,2,5,3,120,240,14,Strategy
+33,7.8,Caverna: The Cave Farmers,2013,1,7,4+,30,210,12,Strategy
+34,7.8,Lost Ruins of Arnak,2020,1,4,3,30,120,12,Strategy
+35,7.8,Blood Rage,2015,2,4,4+,60,90,14,Strategy
+36,7.8,Agricola,2007,1,5,3,30,150,12,Strategy
+37,7.8,Marvel Champions: The Card Game,2019,1,4,1,45,90,14,Customizable
+38,7.8,Eclipse: Second Dawn for the Galaxy,2020,2,6,4+,60,200,14,Strategy
+39,7.8,Too Many Bones,2017,1,4,3,60,120,12,Strategy
+40,7.8,Maracaibo,2019,1,4,3,30,120,12,Strategy
+41,7.8,Mansions of Madness: Second Edition,2016,1,5,3,120,180,14,Thematic
+42,7.8,Pandemic Legacy: Season 2,2017,2,4,4+,60,60,14,Strategy
+43,7.8,The Crew: The Quest for Planet Nine,2019,2,5,4+,20,20,10,Family
+44,7.8,Barrage,2019,1,4,4+,60,120,14,Strategy
+45,7.8,Underwater Cities,2018,1,4,2,80,150,12,Strategy
+46,7.8,Anachrony,2017,1,4,3,30,120,15,Strategy
+47,7.7,Tzolk'in: The Mayan Calendar,2012,2,4,4+,90,90,13,Strategy
+48,7.7,Power Grid,2004,2,6,4+,120,120,12,Strategy
+49,7.7,Kingdom Death: Monster,2015,1,4,4+,60,180,17,Thematic
+50,7.7,Pax Pamir: Second Edition,2019,1,5,4+,45,120,13,Strategy
+51,7.7,The 7th Continent,2017,1,4,1,5,1000,14,Thematic
+52,7.7,Clans of Caledonia,2017,1,4,4+,30,120,12,Strategy
+53,7.7,Mechs vs. Minions,2016,2,4,4+,60,120,14,Strategy
+54,7.7,Star Wars: Imperial Assault,2014,1,5,2,60,120,14,Thematic
+55,7.7,Le Havre,2008,1,5,3,30,150,12,Strategy
+56,7.7,On Mars,2020,1,4,3,90,150,14,Strategy
+57,7.7,The Gallerist,2015,1,4,3,60,150,13,Strategy
+58,7.7,Azul,2017,2,4,2,30,45,8,Family
+59,7.7,Eclipse,2011,2,6,4+,60,180,14,Strategy
+60,7.7,Lisboa,2017,1,4,3,60,120,12,Strategy
+61,7.7,The Quacks of Quedlinburg,2018,2,4,4+,45,45,10,Family
+62,7.7,Through the Ages: A Story of Civilization,2006,2,4,3,120,120,12,Strategy
+63,7.7,Crokinole,1876,2,4,2,30,30,8,Family
+64,7.7,Android: Netrunner,2012,2,2,2,45,45,14,Customizable
+65,7.7,Aeon's End,2016,1,4,2,60,60,14,Strategy
+66,7.7,Fields of Arle,2014,1,2,2,60,120,13,Strategy
+67,7.7,Paladins of the West Kingdom,2019,1,4,2,90,120,12,Strategy
+68,7.7,Race for the Galaxy,2007,2,4,2,30,60,12,Strategy
+69,7.6,Robinson Crusoe: Adventures on the Cursed Island,2012,1,4,,60,120,14,Thematic
+70,7.6,Clank!: A Deck-Building Adventure,2016,2,4,3,30,60,12,Strategy
+71,7.6,Teotihuacan: City of Gods,2018,1,4,4+,90,120,14,Strategy
+72,7.6,The Voyages of Marco Polo,2015,2,4,4+,40,100,12,Strategy
+73,7.6,7 Wonders ,2010,2,7,4+,30,30,10,Strategy
+74,7.6,Five Tribes,2014,2,4,2,40,80,13,Strategy
+75,7.6,Agricola (Revised Edition),2016,1,4,4+,30,120,12,Strategy
+76,7.6,Lords of Waterdeep,2012,2,5,3,60,120,12,Strategy
+77,7.6,Dominant Species,2010,2,6,4+,120,240,14,Strategy
+78,7.6,Grand Austria Hotel,2015,2,4,2,60,120,12,Strategy
+79,7.6,Keyflower,2012,2,6,4+,90,120,12,Strategy
+80,7.6,Tainted Grail: The Fall of Avalon,2019,1,4,1,60,120,14,Thematic
+81,7.6,Architects of the West Kingdom,2018,1,5,4+,60,80,12,Strategy
+82,7.6,Pandemic Legacy: Season 0,2020,2,4,,45,60,14,Strategy
+83,7.6,El Grande,1995,2,5,4+,60,120,12,Strategy
+84,7.6,Caylus,2005,2,5,3,60,150,12,Strategy
+85,7.6,Battlestar Galactica: The Board Game,2008,3,6,4+,120,180,14,Thematic
+86,7.6,Twilight Imperium: Third Edition,2005,3,6,4+,180,240,14,Strategy
+87,7.6,Troyes,2010,1,4,3,90,90,12,Strategy
+88,7.6,Dominion: Intrigue,2009,2,6,3,30,30,13,Strategy
+89,7.6,Mombasa,2015,2,4,4+,75,150,12,Strategy
+90,7.6,Eldritch Horror,2013,1,8,4+,120,240,14,Thematic
+91,7.6,The Lord of the Rings: Journeys in Middle-Earth,2019,1,5,2,60,120,14,Thematic
+92,7.5,Raiders of the North Sea,2015,2,4,3,60,80,12,Strategy
+93,7.5,Rising Sun,2018,3,5,4+,90,120,14,Strategy
+94,7.5,Patchwork,2014,2,2,2,15,30,8,Family
+95,7.5,Lorenzo il Magnifico,2016,2,4,3,60,120,12,Strategy
+96,7.5,The Isle of Cats,2019,1,4,3,60,90,8,Strategy
+97,7.5,Russian Railroads ,2013,2,4,4+,90,120,12,Strategy
+98,7.5,Tigris & Euphrates,1997,2,4,4+,90,90,12,Strategy
+99,7.5,Decrypto,2018,3,8,4+,15,45,12,Party
+100,7.5,Trajan,2011,2,4,4+,60,120,12,Strategy
